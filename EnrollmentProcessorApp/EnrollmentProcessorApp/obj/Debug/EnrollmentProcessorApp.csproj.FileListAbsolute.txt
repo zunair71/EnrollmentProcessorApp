@@ -1,0 +1,7 @@
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\obj\Debug\EnrollmentProcessorApp.csprojAssemblyReference.cache
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\obj\Debug\EnrollmentProcessorApp.csproj.CoreCompileInputs.cache
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\bin\Debug\EnrollmentProcessorApp.exe.config
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\bin\Debug\EnrollmentProcessorApp.exe
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\bin\Debug\EnrollmentProcessorApp.pdb
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\obj\Debug\EnrollmentProcessorApp.exe
+C:\Users\zunai\source\repos\EnrollmentProcessorApp\EnrollmentProcessorApp\obj\Debug\EnrollmentProcessorApp.pdb
